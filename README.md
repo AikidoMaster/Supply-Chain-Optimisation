@@ -140,7 +140,7 @@ docker run -p 5000:5000 supply-chain-optimization
 ## **Screenshots**
 
 ### **Power BI Dashboard**
-![Image Description] (dashboard.png)
+![Image Description] (https://github.com/AikidoMaster/Supply-Chain-Optimisation/blob/main/dashboard.png)
 
 ## **Future Enhancements**
 - Add advanced optimization models (e.g., mixed-integer programming).
