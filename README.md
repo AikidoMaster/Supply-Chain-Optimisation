@@ -140,12 +140,7 @@ docker run -p 5000:5000 supply-chain-optimization
 ## **Screenshots**
 
 ### **Power BI Dashboard**
-_(Add a screenshot of your Power BI dashboard for visual impact.)_
-
-### **Flask API in Action**
-_(Add sample API requests/responses screenshots or logs.)_
-
----
+![Image Description] (dashboard.png)
 
 ## **Future Enhancements**
 - Add advanced optimization models (e.g., mixed-integer programming).
